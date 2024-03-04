@@ -1,6 +1,4 @@
-<center>
-**LEARN FROM ZOOM: DECOUPLED SUPERVISED CONTRASTIVE LEARNING FOR WCE IMAGE CLASSIFICATION**
-</center>
+# <center> **LEARN FROM ZOOM: DECOUPLED SUPERVISED CONTRASTIVE LEARNING FOR WCE IMAGE CLASSIFICATION** </center>
 
 This [paper] is accepted by Transactions on Medical Imaging (TMI) 2020.
 (https://arxiv.org/abs/2401.05771)
