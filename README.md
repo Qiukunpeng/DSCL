@@ -1,6 +1,6 @@
 ## DSCL
 
-Code for **LEARN FROM ZOOM: DECOUPLED SUPERVISED CONTRASTIVE LEARNING FOR WCE IMAGE CLASSIFICATION**
+Code for [**LEARN FROM ZOOM: DECOUPLED SUPERVISED CONTRASTIVE LEARNING FOR WCE IMAGE CLASSIFICATION**](https://arxiv.org/abs/2401.05771)
 
 ### Environment
 
@@ -38,3 +38,6 @@ If you find our work useful in your research or if you use parts of this code, p
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+
+### Acknowledgements
+Some codes from [Saliency-Sampler](https://github.com/recasens/Saliency-Sampler/tree/master) and [SupContrast](https://github.com/HobbitLong/SupContrast)
