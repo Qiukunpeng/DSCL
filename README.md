@@ -1,4 +1,7 @@
-# <div align="center">LEARN FROM ZOOM: DECOUPLED SUPERVISED CONTRASTIVE LEARNING FOR WCE IMAGE CLASSIFICATION</div>
+<p align="center">
+
+  <h1 align="center">LEARN FROM ZOOM: DECOUPLED SUPERVISED CONTRASTIVE LEARNING FOR WCE IMAGE CLASSIFICATION</h1>
+
 
 This [paper](https://arxiv.org/abs/2401.05771)
 ### Introduction
