@@ -14,11 +14,11 @@ conda install pytorch==1.13.1 torchvision==0.14.1 pytorch-cuda=11.7 -c pytorch -
 ```bash
 --data
   --Fold-0
-    -train
-    -val
-  -Fold-1
-    -train
-    -val
+    --train
+    --val
+  --Fold-1
+    --train
+    --val
 ```
 
 ### Train
