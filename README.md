@@ -2,8 +2,11 @@
 <h1>LEARN FROM ZOOM: DECOUPLED SUPERVISED CONTRASTIVE LEARNING FOR WCE IMAGE CLASSIFICATION</h1>
 
 [![arXiv](https://img.shields.io/badge/arXiv-<2401.05771>-<COLOR>.svg)](https://arxiv.org/abs/2401.05771)
-<img src="images/structure.png", width="600">
 
+</div>
+
+<div align="center">
+<img src="images/structure.png", width="600">
 </div>
 
 ### Introduction
