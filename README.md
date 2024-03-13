@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-<img src="images/structure.png", width="600">
+<img src="images/structure.png", width="1000">
 </div>
 
 ### Introduction
